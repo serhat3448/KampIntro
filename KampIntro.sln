@@ -31,6 +31,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "testtt", "testtt\testtt.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{D4805DF4-D004-4AFF-9DFC-30474F74DAFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "Dictionary\MyDictionary.csproj", "{3FB8383E-94AE-40C8-B0A6-DE959581CC72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{D4805DF4-D004-4AFF-9DFC-30474F74DAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4805DF4-D004-4AFF-9DFC-30474F74DAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4805DF4-D004-4AFF-9DFC-30474F74DAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FB8383E-94AE-40C8-B0A6-DE959581CC72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FB8383E-94AE-40C8-B0A6-DE959581CC72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FB8383E-94AE-40C8-B0A6-DE959581CC72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FB8383E-94AE-40C8-B0A6-DE959581CC72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
